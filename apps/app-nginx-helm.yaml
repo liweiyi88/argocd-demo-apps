@@ -15,6 +15,6 @@ spec:
   source:
     repoURL: https://charts.bitnami.com/bitnami
     chart: bitnami/nginx
-    targetRevision: 12.0.6 // chart version
+    targetRevision: 12.0.6
     helm:
       releaseName: my-release
