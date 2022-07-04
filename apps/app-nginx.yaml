@@ -12,4 +12,5 @@ spec:
   project: default
   source:
     repoURL: https://gitlab.com/ayush-sharma/example-assets.git
+    path: argocd/my-apps/app-1
     targetRevision: HEAD
